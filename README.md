@@ -1,1 +1,1 @@
-# CGIP
+# CGIP-Project
