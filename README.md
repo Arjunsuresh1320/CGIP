@@ -1,15 +1,10 @@
 # CGIP-Project
 
-Assignment II
+##ASSIGNMENT II
 
-Team 7 (31-35)
+###Reflection against origin
 
-Team Members
+##Team 7 (31-350
 
-Arjun K R
-Arjun Pradeep
-Arjun Suresh
-Aromal A Sudhi
-Ashutosh Darshan
 
 
