@@ -1,10 +1,10 @@
 # CGIP-Project
 
-##ASSIGNMENT II
+## ASSIGNMENT II
 
-###Reflection against origin
+### Reflection against origin
 
-##Team 7 (31-350
+## Team 7 (31-350
 
 
 
